@@ -1,0 +1,5 @@
+opencv-python
+serial
+TIME-python
+numpy
+PyBluez
